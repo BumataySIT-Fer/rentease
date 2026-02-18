@@ -1,0 +1,4 @@
+/* Minimal global styles required by Vite template */
+:root { --bg: #faf7f2; --ink: #1a1208; }
+html, body, #root { height: 100%; }
+body { margin: 0; font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--ink); }
